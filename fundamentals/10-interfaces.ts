@@ -11,5 +11,6 @@ interface Course {
 const course3: Course = {
     title: "Tyepscript Bootcamp",
     subtitle: "Learn Typescript, step by step.",
-    lessonCount: 5
+    lessonCount: 5 
+
 };
